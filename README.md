@@ -29,7 +29,8 @@ Include the neural network model diagram.
 Write your own steps
 
 ## PROGRAM
-
+reg no ; 212222230003
+name: abishek.p.v
 ```
 import matplotlib.pyplot as plt
 import pandas as pd
